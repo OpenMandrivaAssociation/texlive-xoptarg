@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-xoptarg
 Version:	1.0
-Release:	7
+Release:	8
 Summary:	Expandable macros that take an optional argument
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xoptarg
