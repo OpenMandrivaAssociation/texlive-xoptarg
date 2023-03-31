@@ -1,6 +1,6 @@
 Name:		texlive-xoptarg
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Expandable macros that take an optional argument
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xoptarg
